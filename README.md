@@ -1,17 +1,23 @@
 # 👋 Hey there, I’m Alessandro (@axeldotf)
 
-🎓 Student of **Electronics for Intelligent Systems, Big Data & IoT** at the University of Bologna, with a passion for everything electronic, smart, and connected.  
-🚀 I'm interested in **electronics**, **IoT**, and **artificial intelligence**, always looking for new challenges to tackle (and hopefully solve!).  
+🎓 Master’s degree student in **Electronic Engineering** @ University of Bologna.
+🚀 I’m passionate about the integration between **electronics**, **AI**, **embedded systems**, and **Life Sciences**, with a strong interest in innovative and connected technologies.
 
 ## 🔧 Currently working on...
-- Projects related to **IoT and embedded systems**  
-- Deepening my knowledge of **AI and machine learning** applied to electronics  
-- Constantly experimenting with new technologies  
 
-## 💡 Looking to collaborate on...
-If you have an interesting idea involving electronics, AI, or IoT, feel free to reach out! I enjoy exchanging perspectives and working on exciting projects.  
+* Deepening my knowledge of **machine learning, deep learning, and data analytics**
+* Exploring **embedded systems**, **IoT architectures**, and hardware/software integration
+* Working on academic and personal projects involving **Python**, **C**, **SystemVerilog**, and AI-oriented tools
+
+## 🛠️ Main skills & tools
+
+* **Programming:** Python, C, Java, RISC-V/ARM ISA, SystemVerilog, RTOS
+* **Libraries:** NumPy, Pandas, Matplotlib, SciPy, scikit-learn, XGBoost, PyTorch, TensorFlow
+* **Software & tools:** AutoCAD, iBwave Design, CST, ADS, SPICE, NI LabVIEW, VS Code
+* **Technical areas:** Machine Learning, Data Analytics, Embedded Systems, TLC infrastructures, DAS design
 
 ## 📫 How to reach me!
-- 📩 [Email](mailto:alefrullo.22@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-frullo/)
-- 📥 [My CV](https://drive.google.com/file/d/1l0qXwmm1uh56s9zBQXNLxrVLCy02ILSo/view?usp=drive_link)
+
+* 📩 [Email](mailto:alefrullo.22@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-frullo/)
+* 📥 [My CV](https://drive.google.com/file/d/1MQT_E3JN9-sCPDQhj0zo4Pb09NzjzMAb/view?usp=sharing)
